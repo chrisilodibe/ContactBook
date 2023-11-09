@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Data.deps.json
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Data.runtimeconfig.json
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Data.dll
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Data.pdb
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Model.dll
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\bin\Debug\net7.0\ContactBook.Model.pdb
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.AssemblyInfo.cs
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.csproj.CopyComplete
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.dll
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\refint\ContactBook.Data.dll
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.pdb
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ContactBook.Data.genruntimeconfig.cache
+C:\Users\user\source\repos\week-7-task-chrisilodibe\ContactBook.Data\obj\Debug\net7.0\ref\ContactBook.Data.dll
